@@ -2,6 +2,27 @@
     box-sizing: border-box;
 }
 
-/* write your rules below  this line*/
+.dark-bg {
+    background: color #1e1e1e;
+
+}
+
+.light-text {
+    color:#ffffff;
+}
+
+.rounded {
+    Border-radius:10px;
+}
+
+.spaced-out {
+    padding:20px;
+}
+
+.page-title{
+    font-size: 48px;
+    text-align:center
+}
+
 
 
